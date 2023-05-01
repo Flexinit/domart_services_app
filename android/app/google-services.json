@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "214928013578",
+    "firebase_url": "https://billsasa.firebaseio.com",
+    "project_id": "billsasa",
+    "storage_bucket": "billsasa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214928013578:android:77ef97a5c377d5b90de2f3",
+        "android_client_info": {
+          "package_name": "com.domart.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214928013578-jd2j42tomeq6lv6gilvai971r1qvg8k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeOXKv15mibnYuBP_KqK2D0SmVVP_mZVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214928013578-jd2j42tomeq6lv6gilvai971r1qvg8k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
